@@ -1,1 +1,1 @@
-Hier entsteht gerade eine Webseite zu meinem Lieblingscharakter!
+# Let's GIT excercise
