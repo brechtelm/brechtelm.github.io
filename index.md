@@ -9,3 +9,5 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 * third
 I said
 > Thank you
+
+<img src="https://saurer.com/bundles/app/images/logos/logo.svg" />
