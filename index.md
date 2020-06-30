@@ -4,7 +4,7 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 
 
 ## H2 Test issue
-	* fist
-	* second
-	* third
+1. fist
+2. second
+3. third
 	
